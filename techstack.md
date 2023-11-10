@@ -103,10 +103,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@fortawesome/fontawesome-free](https://www.npmjs.com/@fortawesome/fontawesome-free)|v5.15.1|N/A|N/A |CC-BY-4.0,OFL-1.1,MIT|N/A|
-|[chrome-remote-interface](https://www.npmjs.com/chrome-remote-interface)|v0.31.3|N/A|N/A |MIT|N/A|
-|[jsdoc](https://www.npmjs.com/jsdoc)|v4.0.0|N/A|N/A |Apache-2.0|N/A|
-|[moment-timezone](https://www.npmjs.com/moment-timezone)|v0.5.39|N/A|N/A |MIT|N/A|
+|[@fortawesome/fontawesome-free](https://www.npmjs.com/@fortawesome/fontawesome-free)|v5.15.1|09/28/23|DotEsparto1 |CC-BY-4.0,OFL-1.1,MIT|N/A|
+|[chrome-remote-interface](https://www.npmjs.com/chrome-remote-interface)|v0.31.3|09/28/23|DotEsparto1 |MIT|N/A|
+|[jsdoc](https://www.npmjs.com/jsdoc)|v4.0.0|09/12/23|DotEsparto1 |Apache-2.0|N/A|
+|[moment-timezone](https://www.npmjs.com/moment-timezone)|v0.5.39|09/12/23|DotEsparto1 |MIT|N/A|
 
 <br/>
 <div align='center'>
