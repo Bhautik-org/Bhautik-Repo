@@ -24,8 +24,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Bhautik-org/Bhautik-Repo](https://github.com/Bhautik-org/Bhautik-Repo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|1<br/>Contributors|11/08/23 <br/>Report generated|10/30/23<br/>Last commit date|
-|------|------|------|------|
+|10<br/>Tools used|11/10/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
